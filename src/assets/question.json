@@ -1,0 +1,165 @@
+{
+    "question": [{
+            "questionText": "What is the maximum possible length of an identifier?",
+            "options": [{
+                    "text": "16"
+                },
+                {
+                    "text": "32"
+                },
+                {
+                    "text": "64"
+                },
+                {
+                    "text": "None of the Above",
+                    "correct": true
+                }
+            ],
+            "explanation": "The maximum possible length of an identifier is not defined in the python language. It can be of any number."
+        },
+        {
+            "questionText": "Who developed the Python language?",
+            "options": [{
+                    "text": "Zim Den"
+                },
+                {
+                    "text": "Guido van Rossum",
+                    "correct": true
+                },
+                {
+                    "text": "Niene Stom"
+                },
+                {
+                    "text": "Wick van Rossum"
+                }
+            ],
+            "explanation": "Python language was developed by Guido van Rossum in the Netherlands."
+        },
+        {
+            "questionText": "In which year was the Python language developed?",
+            "options": [{
+                    "text": "1995"
+                },
+                {
+                    "text": "1972"
+                },
+                {
+                    "text": "1981"
+                },
+                {
+                    "text": "1989",
+                    "correct": true
+                }
+            ],
+            "explanation": "Python language was developed by Guido van Rossum in 1989."
+        },
+        {
+            "questionText": "n which language is Python written?",
+            "options": [{
+                    "text": "English"
+                },
+                {
+                    "text": "C",
+                    "correct": true
+                },
+                {
+                    "text": "PHP"
+                },
+                {
+                    "text": "None of the Above"
+                }
+            ],
+            "explanation": "Python is written in C programming language, and it is also called CPython."
+        },
+        {
+            "questionText": "Which one of the following is the correct extension of the Python file?",
+            "options": [{
+                    "text": ".py",
+                    "correct": true
+                },
+                {
+                    "text": ".python"
+                },
+                {
+                    "text": ".pyc"
+                },
+                {
+                    "text": "All of the Above"
+                }
+            ],
+            "explanation": "\".py\" is the correct extension of the Python file."
+        },
+        {
+            "questionText": "What is the method inside the class in python language?",
+            "options": [{
+                    "text": "Object"
+                },
+                {
+                    "text": "Argument"
+                },
+                {
+                    "text": "Attribute"
+                },
+                {
+                    "text": "Function",
+                    "correct": true
+                }
+            ],
+            "explanation": "Function is also known as the method."
+        },
+        {
+            "questionText": "Why does the name of local variables start with an underscore discouraged?",
+            "options": [{
+                    "text": "To identify the variable"
+                },
+                {
+                    "text": "It confuses the interpreter"
+                },
+                {
+                    "text": "It indicates a private variable of a class",
+                    "correct": true
+                },
+                {
+                    "text": "None of these"
+                }
+            ],
+            "explanation": "Since there is no concept of private variables in Python language, the major underscore is used to denote variables that cannot be accessed from outside the class."
+        },
+        {
+            "questionText": "Which of the following operators is the correct option for power(ab)?",
+            "options": [{
+                    "text": "a**b",
+                    "correct": true
+                },
+                {
+                    "text": "a^b"
+                },
+                {
+                    "text": "a^^b"
+                },
+                {
+                    "text": "a*b"
+                }
+            ],
+            "explanation": "The power operator in python is a**b, i.e., 2**3=8."
+        },
+        {
+            "questionText": "Which of the following is not a keyword in Python language?",
+            "options": [{
+                    "text": "val",
+                    "correct": true
+                },
+                {
+                    "text": "raise"
+                },
+                {
+                    "text": "try"
+                },
+                {
+                    "text": "zip"
+                }
+            ],
+            "explanation": "\"val\" is not a keyword in python language."
+        }
+    ]
+}
